@@ -1,0 +1,15 @@
+/home/brenoacioli/Documents/excel-reader/bin/Debug/net8.0/excel-reader
+/home/brenoacioli/Documents/excel-reader/bin/Debug/net8.0/excel-reader.deps.json
+/home/brenoacioli/Documents/excel-reader/bin/Debug/net8.0/excel-reader.runtimeconfig.json
+/home/brenoacioli/Documents/excel-reader/bin/Debug/net8.0/excel-reader.dll
+/home/brenoacioli/Documents/excel-reader/bin/Debug/net8.0/excel-reader.pdb
+/home/brenoacioli/Documents/excel-reader/obj/Debug/net8.0/excel-reader.GeneratedMSBuildEditorConfig.editorconfig
+/home/brenoacioli/Documents/excel-reader/obj/Debug/net8.0/excel-reader.AssemblyInfoInputs.cache
+/home/brenoacioli/Documents/excel-reader/obj/Debug/net8.0/excel-reader.AssemblyInfo.cs
+/home/brenoacioli/Documents/excel-reader/obj/Debug/net8.0/excel-reader.csproj.CoreCompileInputs.cache
+/home/brenoacioli/Documents/excel-reader/obj/Debug/net8.0/excel-reader.sourcelink.json
+/home/brenoacioli/Documents/excel-reader/obj/Debug/net8.0/excel-reader.dll
+/home/brenoacioli/Documents/excel-reader/obj/Debug/net8.0/refint/excel-reader.dll
+/home/brenoacioli/Documents/excel-reader/obj/Debug/net8.0/excel-reader.pdb
+/home/brenoacioli/Documents/excel-reader/obj/Debug/net8.0/excel-reader.genruntimeconfig.cache
+/home/brenoacioli/Documents/excel-reader/obj/Debug/net8.0/ref/excel-reader.dll
