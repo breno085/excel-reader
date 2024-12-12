@@ -1,5 +1,8 @@
 # excel-reader
 
+This program reads data from an Excel file and writes it to a database.  
+It can also read from the database and export the data back to an Excel file.  
+
 [EPPlus Documentation](https://www.epplussoftware.com/en/Developers/)  
 
 [Como ler um arquivo Excel com C#?](https://www.youtube.com/watch?v=HhEKBNBCVPk)  
